@@ -6,9 +6,17 @@
 body{
     background-color: #191d7b;
 }
-head{  
+
+.intro{
+   color:#ffffff;
+  font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings
+ 
 }
-figure{
-   
-   margin: 0 auto;
+.paragraph{
+   color:#ffffff;
+  
 }
