@@ -14,9 +14,28 @@ body{
   font-weight: 700;
   font-style: normal;
   font-variation-settings
- 
+ }
+
+ body{
+    background-color: #191d7b;
 }
-.paragraph{
-   color:#ffffff;
-  
+
+.H1 {
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 50px;
+
+}
+
+.paragraph {
+    color: #ffffff;
+    text-align: center;
+    padding: 0px 50px;
+    margin-bottom: 50px;
+}
+.card{
+    position:relative;
+    position: absolute;
+    
+
 }
